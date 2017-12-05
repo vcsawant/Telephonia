@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">Telephonia</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">username</string>
+    <string name="prompt_password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="passwords_must_match">Passwords must match</string>
+    <string name="title_activity_home">HomeActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_game">GameActivity</string>
+
+    <string name="tutorial">How to Play: Telephonia is based on the classic game of telephone involving
+        friends sharing a word from person to person until the last person reveals what he thinks the word is.
+        In our mobile setting, the game involves a group of friends connecting to each other and receiving an
+        order to play the game. The first person received a word from our online dictionary, and must share a
+        maximum 10 letter string of words that do not contain any of the letters from the previous word. This
+        will continue until the last person shares what he thinks the original word was based on the string
+        that he got. At the end, each player scores the rest of the lobby and the final scores are averaged
+        to assign each player a score. Remember that this means there is an honor system involved, please
+        refrain from cheating.</string>
+    <string name="title_activity_waiting_room">WaitingRoomActivity</string>
+    <string name="title_activity_in_game">InGameActivity</string>
+</resources>
